@@ -1,4 +1,4 @@
-# MIPS Array Sorting and Printing
+# Array Sorting and Printing in MIPS Assembly
 
 This MIPS assembly language code, generated in MARS IDE, is designed to demonstrate the sorting and printing of an array of integers. The code performs the following tasks:
 
