@@ -6,7 +6,7 @@ This MIPS assembly language code, generated in MARS IDE, is designed to demonstr
 2. Sorts the array in both increasing and decreasing order using a simple algorithm.
 3. Prints the sorted arrays to the I/O text field.
 
-## Code Explanation
+## Code Explanation 
 
 - The `.data` section defines an array `intArray` of size 10 to store integers, with space reserved for 10 integers.
 - Integers are added to the array using `sw` instructions.
